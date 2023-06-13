@@ -17,5 +17,9 @@ class Program
         string nome = "Edson Rodrigues";
         double valor = 10000000000.50;
         bool status = true;
+        char letra = 'A';
+
+
+
     }
 }
