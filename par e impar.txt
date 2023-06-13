@@ -1,0 +1,23 @@
+/* Online C# Compiler and Editor */
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int numero;
+        Console.Write("Digite um numero: ");
+        numero = Convert.ToInt32(Console.ReadLine());
+        
+  
+        
+        
+        if(numero %2 == 0){
+            Console.WriteLine("O numero e par");
+        }else{
+            Console.WriteLine("O numero e impar");
+        
+        }
+    }
+}
